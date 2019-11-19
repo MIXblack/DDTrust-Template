@@ -272,6 +272,7 @@ figure{
   cursor: pointer;
   text-align: center;
   z-index: 1;
+  margin-bottom: 10px;
 }
 .theme-btn:hover{
   background: #212121;
@@ -5785,6 +5786,5 @@ figure{
 /* CUSTOM */
 
 .donate-box-btn {
-  padding-right: 20px !important;
-  padding-left: 20px !important;
+  padding: 10px 100px 10px 100px !important;
 }
